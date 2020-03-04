@@ -1,33 +1,17 @@
-﻿# [蜂窝网络](https://github.com/OS-Q/W22) 
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-#### 归属通信终端：[M5](https://github.com/OS-Q/M5)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
-## [平台描述](https://github.com/OS-Q/W22/wiki) 
+﻿# [IAP](https://github.com/OS-Q/W22) 
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-蜂窝网络平台，设备可以直接接入到互联网，直接进行相应的逻辑执行。
+#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
+#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
 
-## [平台资源](https://github.com/OS-Q/W22) 
+## [工程描述](https://github.com/OS-Q/W22) 
+
+[IAP](https://github.com/OS-Q/W22) 用于升级边缘体系固件的基础工程，形成相应的OS-Q事实标准
+
+### [收录资源](https://github.com/OS-Q/W22)
 
 - [资源](src/)
 - [文档](docs/)
 
-### [平台结构](https://github.com/OS-Q/W22) 
-
-* M5：[通信终端](https://github.com/OS-Q/M5)
-	* W18：[环形网络](https://github.com/OS-Q/W18)
-	* W19：[总线网络](https://github.com/OS-Q/W19)
-	* W20：[树形网络](https://github.com/OS-Q/W20)
-	* W21：[网形网络](https://github.com/OS-Q/W21)
-	* W22：[蜂窝网络](https://github.com/OS-Q/W22)
-		* D148：[以太网终端](https://github.com/OS-Q/D148)
-		* D149：[WiFi终端S](https://github.com/OS-Q/D149)
-		* D150：[WiFi终端L](https://github.com/OS-Q/D150)
-		* D151：[WiFi终端A](https://github.com/OS-Q/D151)
-		* D152：[NB终端](https://github.com/OS-Q/D152)
-		* D153：[GSM终端](https://github.com/OS-Q/D153)
-		* D154：[LTE终端](https://github.com/OS-Q/D154)
-
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/W22)
-####  2019-7-13
-
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/W22)
+####  2019-9-8
